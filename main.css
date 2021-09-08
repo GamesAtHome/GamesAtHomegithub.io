@@ -1,0 +1,32 @@
+.mainContainer {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.roundedBox {
+    border-radius: 6px;
+    padding: 10px;
+}
+.simpleCard {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+}
+
+.simpleCard .slot {
+   padding: 20px;
+   margin-right: 15px;
+}
+
+.title {
+    text-align: center;
+}
+
+.bottomBorder {
+    border-bottom: 2px solid rgb(37, 173, 132);
+}
+
+.backgroundStyle {
+    background-color: #f0f8ff;
+}
